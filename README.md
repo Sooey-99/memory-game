@@ -23,9 +23,6 @@ To run this project locally, follow these steps:
 5. The images shuffle randomly after each click.
 6. Try to achieve the highest score possible!
 
-## Screenshot
-
-
 
 ## Built with
 - React
